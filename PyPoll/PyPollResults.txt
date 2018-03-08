@@ -1,0 +1,13 @@
+Election Result
+--------------------
+Total Votes: 803000
+--------------------
+  Candidate   Votes
+0    Vestal  385440
+1    Torres  353320
+2      Seth   40150
+3    Cordin   24090
+--------------------
+Winner: 0    Vestal
+Name: Candidate, dtype: object
+--------------------
